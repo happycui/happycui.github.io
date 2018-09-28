@@ -1,2 +1,4 @@
-
-*
+hexo
+node_modules
+public
+themes
