@@ -142,7 +142,7 @@
     <link href="https://happycui.github.io/2018/09/28/my-first-blog/"/>
     <id>https://happycui.github.io/2018/09/28/my-first-blog/</id>
     <published>2018-09-28T06:54:45.000Z</published>
-    <updated>2018-09-28T09:47:54.158Z</updated>
+    <updated>2018-09-28T11:02:46.138Z</updated>
     
     <content type="html"><![CDATA[<p>##</p><h3 id="标题1"><a href="#标题1" class="headerlink" title="标题1"></a>标题1</h3><h3 id="标题2"><a href="#标题2" class="headerlink" title="标题2"></a>标题2</h3>]]></content>
     
@@ -156,6 +156,12 @@
     
     </summary>
     
+      <category term="web" scheme="https://happycui.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="Testing" scheme="https://happycui.github.io/tags/Testing/"/>
+    
+      <category term="Test1" scheme="https://happycui.github.io/tags/Test1/"/>
     
   </entry>
   
