@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title></title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -8,11 +8,6 @@
   <link href="https://happycui.github.io/"/>
   <updated>2018-09-28T07:14:13.893Z</updated>
   <id>https://happycui.github.io/</id>
-  
-  <author>
-    <name>cuiqq</name>
-    
-  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
